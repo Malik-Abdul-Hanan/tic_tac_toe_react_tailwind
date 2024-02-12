@@ -1,0 +1,9 @@
+.cover-container {
+    background-image: url('../assets/svg/cover.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    min-width: 100lvw;
+    height: 100vh;
+    min-height: 100lvh;
+}

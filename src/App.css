@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+@font-face {
+  font-family: 'badGong';
+  src: url('./assets/fonts/Bad\ Gong.ttf') format('truetype');
+}
+
+body {
+  font-family: "badGong" I !important;
 }
